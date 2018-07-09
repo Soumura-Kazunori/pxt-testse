@@ -1,12 +1,12 @@
 {
-    "name":"testse",
-    "version":"0.0.1",
+    "name": "testse",
+    "version": "0.0.1",
     "description": "Switch-Education",
-    "license":"MIT",
+    "license": "MIT",
     "dependencies":{
-        "core":"*"
+        "core": "*"
     },
-    "files": ["README.md","switcheducation.ts"],
-    "testFiles":[],
-    "public":true
+    "files": ["README.md","testse.ts"],
+    "testFiles": [],
+    "public": true
 }
