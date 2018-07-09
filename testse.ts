@@ -15,7 +15,7 @@ enum MyEnum {
  * カスタムブロック
  */
 //% weight=100 color=#0fbc11 icon=""
-namespace custom {
+namespace testse {
     /**
      * TODO: ここに関数を記述してください
      * @param n ここでパラメーターの説明をしてください。, eg: 5
