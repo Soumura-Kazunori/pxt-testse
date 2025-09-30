@@ -1,0 +1,16 @@
+# MakeCode / PXT
+.pxt/
+built/
+pxt_modules/
+node_modules/
+yotta/
+yotta_*/
+yotta_modules/
+sim/
+docs/.cache/
+.cache/
+*.hex
+*.uf2
+*.tgz
+*.db
+tmp/
