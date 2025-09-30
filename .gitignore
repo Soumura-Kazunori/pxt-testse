@@ -14,3 +14,5 @@ docs/.cache/
 *.tgz
 *.db
 tmp/
+package-lock.json
+package.json
