@@ -43,7 +43,5 @@ namespace testse {
     //% block.loc.ja="文字自表示 $str"
     export function showString(str: string): void {
         basic.showString(str)
-
-
-    })
+    }
 }
