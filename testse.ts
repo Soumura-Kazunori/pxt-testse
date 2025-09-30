@@ -2,6 +2,8 @@
 /**
  * このファイルを使って、独自の関数やブロックを定義してください。
  * 詳しくはこちらを参照してください：https://makecode.microbit.org/blocks/custom
+
+
  */
 
 enum MyEnum {
@@ -44,4 +46,13 @@ namespace testse {
     export function showString(str: string): void {
         basic.showString(str)
     }
+/**
+     * 
+     */
+    //% block="show string2 $str"
+    //% block.loc.ja="文字自表示2 $str"
+    export function showString2(str: string): void {
+        basic.showString(str)
+    }
+
 }
